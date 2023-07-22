@@ -9,7 +9,6 @@ body{
     background-color:whitesmoke;
     box-shadow: inset 0 0 20px blueviolet;
     padding:0 10px;
-    min-width:60%;
 }
 img{
     float: left;
@@ -33,7 +32,6 @@ h2{
     width:58.8%;
     margin-left:200px;
     box-shadow: 0 0 10px 2px blueviolet ;
-    min-width:60%;
 }
 #c2 h3{
     text-align:center;
